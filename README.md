@@ -20,3 +20,6 @@ Just import and prefab drag drop then SAAS Object Script value change in inspect
 
 DEMO World
 https://vrchat.com/home/world/wrld_6dc703a3-63cc-446e-8c45-04dbcea09f2c
+
+booth
+https://kcalb.booth.pm/items/5602423
